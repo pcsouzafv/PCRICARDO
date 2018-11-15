@@ -1,0 +1,6 @@
+{
+  "name": "4Linux | OSS",
+  "tagline": "4Linux Open Source Software Repository",
+  "body": "# Welcome to the 4Linux Open Source Software page on GitHub\r\n\r\n## Projects\r\n### BeavOps\r\n  Sistema da 4Linux escrito em Python que tem como função preparar o Ambiente usado pelo Aluno ao realizar cursos na 4Linux.\r\n[BeavOps Repository](https://github.com/4linux/BeavOps-Modulos)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
